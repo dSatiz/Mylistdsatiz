@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/ESPN_wordmark.svg" group-title="Esportes",ESPN (EUA)
+https://iptv-org.github.io/streams/sports/espn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/BBC_World_News_2019.png" group-title="Notícias",BBC World News
+https://iptv-org.github.io/streams/news/bbc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Film4.svg" group-title="Filmes",Film4 (Reino Unido)
+https://iptv-org.github.io/streams/movies/film4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Aljazeera_English_logo.svg" group-title="Notícias",Al Jazeera English
+https://iptv-org.github.io/streams/news/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/France_24_logo.svg" group-title="Notícias",France 24 (Francês)
+https://iptv-org.github.io/streams/news/france24.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Deutsche_Welle_logo.svg" group-title="Notícias",Deutsche Welle
+https://iptv-org.github.io/streams/news/dw.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/NASA_TV_logo.png" group-title="Educação",NASA TV
+https://iptv-org.github.io/streams/edu/nasa.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/RTP_Internacional_logo_2017.svg" group-title="Entretenimento",RTP Internacional
+https://iptv-org.github.io/streams/general/rtpi.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Cartoon_Network_2010_logo.svg" group-title="Infantil",Cartoon Network
+https://iptv-org.github.io/streams/kids/cartoon.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Nickelodeon_2020_logo.svg" group-title="Infantil",Nickelodeon
+https://iptv-org.github.io/streams/kids/nick.m3u8
